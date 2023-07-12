@@ -1,0 +1,2 @@
+Este es el primer texto escrito en el archivo.
+Este es el segundo texto escrito en el archivo.

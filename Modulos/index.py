@@ -6,6 +6,7 @@ def main():
 def calcular_tiempo_restante():
     hora_actual = time.localtime().tm_hour
     minutos_actual = time.localtime().tm_min
+
     hora_limite = 19
 
     if hora_actual >= hora_limite:
